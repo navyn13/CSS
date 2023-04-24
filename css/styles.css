@@ -1,0 +1,19 @@
+body {
+    background-color: B9EDDD;
+}
+
+img {
+    height: 200px;
+}
+
+hr {
+    border-color: grey;
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 5px;
+    width: 10%;
+}
+h1 {
+    font-family: 'Noto Sans', sans-serif;
+    
+}
